@@ -17,3 +17,9 @@ Es öffnet sich Screen 2 --> Wähle Art von Laden
 Es öffnet sich leere Einkaufsliste zum selbst ausfüllen und abhaken
 Leider kann man in der Webversion nicht testen, ob das aktuelle Programm läuft, weshalb wir bis nächste Stunde warten müssen, um unsere anfänglichen Versuche zu testen. Denn die App läuft nur auf einem Android-Handy, welches wir heute nicht dabei haben.
 
+## 24-08-2021
+Vanessa und ich waren beide krank
+
+## 25-08-2021
+Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können.
+
