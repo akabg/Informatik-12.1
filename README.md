@@ -21,5 +21,4 @@ Leider kann man in der Webversion nicht testen, ob das aktuelle Programm läuft,
 Vanessa und ich waren beide krank
 
 ## 25-08-2021
-Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können.
-
+Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können und weiter daran gearbeitet. Zuwieder unserer Erwartungen haben unsere ersten Programmierversuch sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine To-Do Liste, zum abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Sound Effekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als nächstes das Layout an.
