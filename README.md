@@ -25,3 +25,11 @@ Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal au
 
 ## 31.08.2021
 Farhat war heute krank. Wir haben  eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die Grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzöich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
+To-Do:
+-speicher button
+-delete button
+-new item button 
+-uhr datum
+-1. seite bild
+-sound effect?
+
