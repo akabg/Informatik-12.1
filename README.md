@@ -36,3 +36,5 @@ To-Do:
 ## 01.09.2021
 Heute haben wir Farhat die Fortschritte in der App gezeigt und gmeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss (siehe oben). Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
 
+## 07.09.2021 
+Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da war, konnten wir uns nicht in App Inventor einloggen. 
