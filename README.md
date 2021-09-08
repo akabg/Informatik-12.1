@@ -38,3 +38,6 @@ Heute haben wir Farhat die Fortschritte in der App gezeigt und gmeinsam eine To-
 
 ## 07.09.2021 
 Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da war, konnten wir uns Anfangs nicht in App Inventor einloggen. Deshalb haben wir auf Pexels Hintergrundbilder für unsere App rausgesucht. Nachdem wir verschiedene Bilder gesammelt haben, haben wir für Farhat einen GitHub Account erstellt. Zum Ende hin, haben wir es dann doch noch geschafft in App Inventor reinzukommen. Also haben wir am Ende die herausgesuchten Bilder eingefügt.  
+
+## 08.09.2021 
+Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, nächste Stunde die Tabellen auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
