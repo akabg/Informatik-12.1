@@ -41,3 +41,15 @@ Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da
 
 ## 08.09.2021 
 Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, nächste Stunde die Tabellen auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
+
+## 14.09.2021
+Augefallen.
+
+## 15.09.2021
+Ausgefallen.
+
+## 21.09.2021
+Farhat und Antonia sind heute krank. Wir haben endlich herausgefunden wie man eine Liste erstellt zu der man neue Items hinzufügen kann.Ausserdem können wir jetzt das Datum und die Uhrzeit einstellen.
+
+## 22.09.2021
+Farhat ist zurück.
