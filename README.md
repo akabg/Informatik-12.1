@@ -10,31 +10,50 @@ Heute haben wir uns weiter mit Github vertraut gemacht und das Projekt mit den A
 
 ## 10-08-2021
 
-Nach einigen Recherchen, sind wir uns klarer darüber geworden, was im Rahmen des möglichen als Projekt für uns Programmier-Neulinge liegt. Auch haben wir uns mit Herrn Buhl darüber ausgetauscht und sind dank ihm auf das Programm AppInventor gekommen. Mit diesem haben wir uns anschließend vertraut gemacht und angefangen eine Einkaufsliste, bei der man Listen anlegen kann und diese nach Supermärkten sortiert, zu programieren. 
+Nach einigen Recherchen, sind wir uns klarer darüber geworden, was im Rahmen des Möglichen als Projekt für uns Programmier-Neulinge liegt. Auch haben wir uns mit Herrn Buhl darüber ausgetauscht und sind dank ihm auf das Programm AppInventor gekommen. Mit diesem haben wir uns anschließend vertraut gemacht und angefangen eine Einkaufsliste, bei der man Listen anlegen kann und diese nach Supermärkten sortiert, zu programieren. 
 Aufbau: 
 Startscreen --> Wähle Einkauf
 Es öffnet sich Screen 2 --> Wähle Art von Laden
 Es öffnet sich leere Einkaufsliste zum selbst ausfüllen und abhaken
-Leider kann man in der Webversion nicht testen, ob das aktuelle Programm läuft, weshalb wir bis nächste Stunde warten müssen, um unsere anfänglichen Versuche zu testen. Denn die App läuft nur auf einem Android-Handy, welches wir heute nicht dabei haben.
+Leider kann man in der Webversion nicht testen, ob das aktuelle Programm läuft, weshalb wir bis nächste Stunde warten müssen, um unsere anfänglichen Versuche zu testen. Denn die App läuft nur auf einem Android-Gerät, welches wir heute nicht dabei haben.
+
+## 11-08-2021
+ausgefallen?
+
+## 18-08-2021
+Die ganze Klasse ist durch die Klassenfahrt verhindert gewesen.
+
+## 19-08-2021
+Die ganze Klasse ist hier ebenfalls durch die Klassenfahrt verhindert.
 
 ## 24-08-2021
-Vanessa und ich waren beide krank
+Vanessa und Antonia waren beide krank.
 
 ## 25-08-2021
-Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können und weiter daran gearbeitet. Zuwieder unserer Erwartungen haben unsere ersten Programmierversuch sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine To-Do Liste, zum abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Sound Effekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als nächstes das Layout an.
+Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können und weiter daran gearbeitet. Zuwieder unserer Erwartungen haben unsere ersten Programmierversuche sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine To-Do Liste, zum abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Sound Effekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als nächstes das Layout an.
+![knöpfe erster versuch](https://user-images.githubusercontent.com/88386173/137918798-cf7f6e69-57ef-4c46-bc83-063c1a1e7efb.PNG)
+Auf diesem Bild sieht man eine unserer ersten Screens der App, auf der man eine Art von Supermarkt aussuchen kann. Noch besteht der Screen nur aus Buttons, das Layout wird aber noch verändert.
+![erste knöpfe](https://user-images.githubusercontent.com/88386173/137919281-cca4f590-8f41-4afa-8542-337087e1437f.PNG)
+Auf diesem Bild sieht man die ersten Programmierversuche unserer Gruppe. Dieses Programm ist dafür da, mit der Hilfe von Knöpfen durch die Seiten zu navigieren.
+![textbox farbe ändern](https://user-images.githubusercontent.com/88386173/137919463-a7c20e99-aed2-4b92-90ad-f0a27c315d4d.PNG)
+Dies ist der Code, mit welchem man eine Farbe der Textbox ändern kann. Diese Funktion ist dafür gedacht, dass man Teile der Liste "abhaken" kann. (Nachtrag: Die Funktion haben wir im Nachhinein gelöscht und anders gelöst).
 
 ## 31.08.2021
-Farhat war heute krank. Wir haben  eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die Grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzöich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
-To-Do:
--speicher button
--delete button
--new item button 
--uhr datum
--1. seite bild
--sound effect?
+Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. In diesem Beispiel hatten wir einen Knopf, der die Textbox einfärbt und einen, welcher sie wieder normal färbt. Diese haben wir zusammen gelegt. (Nachtrag: Auch diese Codes findet man in der finalen Vesion nicht mehr, da sie durch noch effizientere Codes ersetzt wurden) Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die Grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzlich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
+![alter Code](https://user-images.githubusercontent.com/88386173/137929191-2f3177af-2950-4670-b807-2e04e828694b.png)
+
+![GR](https://user-images.githubusercontent.com/88386173/137929200-e088576d-61c9-4281-a8a7-61f85c344f78.PNG)
+Hier sieht man den alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht.
 
 ## 01.09.2021
-Heute haben wir Farhat die Fortschritte in der App gezeigt und gmeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss (siehe oben). Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
+Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
+Unsere To-Do Liste:
+-speicher button um Objekte in der Liste zu speichern
+-delete button um Liste zu leeren
+-new item button um neues Item zur Liste hinzuzufügen
+-Uhrzeit und Datum
+-Bilder auf allen
+-Sound effect beim clicken
 
 ## 07.09.2021 
 Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da war, konnten wir uns Anfangs nicht in App Inventor einloggen. Deshalb haben wir auf Pexels Hintergrundbilder für unsere App rausgesucht. Nachdem wir verschiedene Bilder gesammelt haben, haben wir für Farhat einen GitHub Account erstellt. Zum Ende hin, haben wir es dann doch noch geschafft in App Inventor reinzukommen. Also haben wir am Ende die herausgesuchten Bilder eingefügt.  
@@ -49,7 +68,45 @@ Augefallen.
 Ausgefallen.
 
 ## 21.09.2021
-Farhat und Antonia sind heute krank. Wir haben endlich herausgefunden wie man eine Liste erstellt zu der man neue Items hinzufügen kann.Ausserdem können wir jetzt das Datum und die Uhrzeit einstellen.
+Farhat und Antonia sind heute krank. Wir haben endlich herausgefunden wie man eine Liste erstellt zu der man neue Items hinzufügen kann. Diesen Code haben wir heute angefangen zu schreiben und mussten dementsprechend viele bereits bestehenden Funktionen und Codes löschen. Während wir vorher einzelnde Textboxen hatten, in die man jeweils einzeln ein Objekt eintragen kann, kann man jetzt durch einen "add" button aus beliebig vielen Dingen eine Liste erstellen. Auch die "Check" Buttons, die neben jeder Textbox war, um diese durch drücken des Buttons einzufärben und als erledigt zu makieren, mussten durch den neuen Code weichen. 
+Ausserdem können wir jetzt das Datum und die Uhrzeit auf der ersten Seite einstellen.
 
 ## 22.09.2021
-Farhat ist zurück.
+Farhat ist zurück. Vanessa und Sie haben die große Umstellung vom Tag davor vollendet und sowohl das neue Layout angelegt, als auch den neuen Code zu Ende entwickelt.
+![alte Liste](https://user-images.githubusercontent.com/88386173/137929733-53e957e5-9ddf-40f2-ad66-0833e9783685.png)
+
+![Drogeriescreenblocks nah](https://user-images.githubusercontent.com/88386173/137927122-5b138bad-9c25-473d-b039-e663fcf76ec0.png)
+Dies ist der neue Code am Beispiel des Drogerie Screens. Statt vielen einzelnen Textboxen, die man durch Buttons neu generieren und einfärben kann, hat man jetzt ein einziges Feld, in welches man tippt und durch einen einzigen Button wird dann automatisch eine Liste generiert. Oben sieht man im Vergleich den alten Code, bei welchen man für jede Textbox einzeln eine Funktion programmieren musste, so dass man dort reinschreiben kann.
+![neues Layout](https://user-images.githubusercontent.com/88386173/137927903-bf36b968-48d7-4492-a8ce-bbd57118b2ee.png)
+Dies ist nun das neue Layout, welches dank weniger Knöpfe und Buttons und effizienteren Codes übersichtlicher ist und besser funktioniert.
+![Homescreen1](https://user-images.githubusercontent.com/88386173/137930091-cafdc5f2-99f3-4fc0-bf77-017ec750e2c2.png)
+![Uhrzeit](https://user-images.githubusercontent.com/88386173/137928390-a9d2fc89-e61b-449a-aa75-4b0056ca1f04.png)
+Dies ist der Code für die Uhrzeit und das Datum. Darüber sieht man, wie diese auf dem Homescreen positioniert sind. (Hinweis: auf einem Android-Gerät sieht dies natürlich anders und besser aus).
+
+## 28.09.2021
+Die ganze Gruppe war durch Krankheit verhindert.
+
+## 29.09.2021
+Die Klasse hat ihr Deutsch-Vorabi geschrieben.
+
+## 05.10.2021
+Herbstferien
+
+## 06.10.2021
+Herbstferien
+
+## 12.10.2021
+Herbstferien
+
+## 13.10.2021
+Herbstferien
+
+## 19.10.2021
+Heute hat sich unsere Grupope aufgeteteilt. Während Antonia den Github-Blog überarbeitet, auf Vollständigkeit prüft und mit Bildern füllt, arbeiten Vanessa und Farhat an einer Möglichkeit, die Objekte in einer Liste auch zu speichern. Denn momentan gehen diese verloren, wenn man auf einen anderen Screen wechselt. In Teamarbeit haben wir uns auch dazu entschieden, für die Präsentation ein Werbevideo zu drehen, über dessen Inhalt wir kurz gebrainstormt haben.
+Inhalt:
+Bild 1: Personen, in einem Supermarkt/Drogeriemarkt/..., welche eine hohe Anzahl an Einkaufszetteln durchwühlen und fallen lassen (schneller Cut zwischen diesen Personen)
+Bild 2: Aufnahme einer einfarbigen Oberfläche von oben, ein Handy wird vom Rand in die Mitte des Tischs gestoßen, die Kamera zoomt auf den Bildschirm, wo unsere App offen ist
+Bild 3: Bildschirmaufnahme, die App wird benutzt (--> einfacher als tausend Zettel!)
+Bild 4: Slogan? Logo?
+## 20.10.2021
+
