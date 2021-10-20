@@ -121,5 +121,6 @@ Bild 1: Personen, in einem Supermarkt/Drogeriemarkt/..., welche eine hohe Anzahl
 Bild 2: Aufnahme einer einfarbigen Oberfläche von oben, ein Handy wird vom Rand in die Mitte des Tischs gestoßen, die Kamera zoomt auf den Bildschirm, wo unsere App offen ist
 Bild 3: Bildschirmaufnahme, die App wird benutzt (--> einfacher als tausend Zettel!)
 Bild 4: Slogan? Logo?
-## 20.10.2021
 
+## 20.10.2021
+Wir konnten erfolgreich neue Items in unseren Listen speichern, haben jedoch in dieser Stunde herausgefunden, dass die Items nicht nur in einer Liste, sondern in allen Listen gleichzeitig gespeichert werden. Wir werden probieren, das Problem in der kommenden Stunde zu beheben. Ausserdem hat Antonia heute ein Android Handy von Zuhsause mitgenommen, sodass wir unsere App heute auch auf einem Handy ausprobieren konnten. Dies hat sehr gut geklappt. Zur Sicherheit haben wir zudem verschiedene Screenshots von den Codes gemacht, damit wir diese nicht verlieren. 
