@@ -40,18 +40,24 @@ Auf diesem Bild sieht man eine unserer ersten Screens der App, auf der man eine 
 
 Auf diesem Bild sieht man die ersten Programmierversuche unserer Gruppe. Dieses Programm ist dafür da, mit der Hilfe von Knöpfen durch die Seiten zu navigieren.
 
+![ersteListe](https://user-images.githubusercontent.com/88386321/138891907-15e8729d-9fc4-498d-9857-8bbad8e34131.PNG)
+
+Dies ist unser erster Entwurf, wie eine (Ladenspezifische) Einkaufsliste aussehen könnte. Allerdings ist ein einzelner Knopf für jede Textbox und auch viele Textboxen sehr uneffizient, weshalb wir diese Funktion später abgeändert haben.
+
 ![textbox farbe ändern](https://user-images.githubusercontent.com/88386173/137919463-a7c20e99-aed2-4b92-90ad-f0a27c315d4d.PNG)
 
-Dies ist der Code, mit welchem man eine Farbe der Textbox ändern kann. Diese Funktion ist dafür gedacht, dass man Teile der Liste "abhaken" kann. (Nachtrag: Die Funktion haben wir im Nachhinein gelöscht und anders gelöst).
+Dies ist der Code, mit welchem man eine Farbe der Textbox ändern kann. Diese Funktion ist dafür gedacht, dass man Teile der Liste "abhaken" kann. (Nachtrag: Die Funktion haben wir im Nachhinein auch gelöscht und anders gelöst).
 
 ## 31.08.2021
 Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. In diesem Beispiel hatten wir einen Knopf, der die Textbox einfärbt und einen, welcher sie wieder normal färbt. Diese haben wir zusammen gelegt. (Nachtrag: Auch diese Codes findet man in der finalen Vesion nicht mehr, da sie durch noch effizientere Codes ersetzt wurden) Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die Grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzlich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
 
 ![alter Code](https://user-images.githubusercontent.com/88386173/137929191-2f3177af-2950-4670-b807-2e04e828694b.png)
 
-![GR](https://user-images.githubusercontent.com/88386173/137929200-e088576d-61c9-4281-a8a7-61f85c344f78.PNG)
+![GRneu](https://user-images.githubusercontent.com/88386321/138892521-07eed65d-7d98-4ade-9237-17527607b782.png)
 
-Hier sieht man den alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht.
+Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht. Denn beim alten Code, braucht man die doppelte Anzahl an Knöpfen, um die Textkästen wieder zurückzufärben. Dieser Unterschied ist auch unten nochmal auf dem Handy gezeigt, der obere Teil wäre die alte Ansicht und der untere ist neue.
+
+![änderung](https://user-images.githubusercontent.com/88386321/138893230-d19bcf3b-7bd4-4ba5-9c82-52e8f6610c27.PNG)
 
 ## 01.09.2021
 Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
@@ -84,9 +90,11 @@ Farhat ist zurück. Vanessa und Sie haben die große Umstellung vom Tag davor vo
 
 ![alte Liste](https://user-images.githubusercontent.com/88386173/137929733-53e957e5-9ddf-40f2-ad66-0833e9783685.png)
 
+-----------------------------------------------------------------------------------------
+
 ![Drogeriescreenblocks nah](https://user-images.githubusercontent.com/88386173/137927122-5b138bad-9c25-473d-b039-e663fcf76ec0.png)
 
-Dies ist der neue Code am Beispiel des Drogerie Screens. Statt vielen einzelnen Textboxen, die man durch Buttons neu generieren und einfärben kann, hat man jetzt ein einziges Feld, in welches man tippt und durch einen einzigen Button wird dann automatisch eine Liste generiert. Oben sieht man im Vergleich den alten Code, bei welchen man für jede Textbox einzeln eine Funktion programmieren musste, so dass man dort reinschreiben kann.
+Dies ist der neue Code am Beispiel des Drogerie Screens. Statt vielen einzelnen Textboxen, die man durch Buttons neu generieren und einfärben kann, gibt es nun ein Feld, in welches man tippt und durch einen einzigen Button wird dann automatisch eine Liste generiert. Oben sieht man im Vergleich den alten Code, bei welchen man für jede Textbox einzeln eine Funktion programmieren musste, so dass man dort reinschreiben kann.
 
 ![neues Layout](https://user-images.githubusercontent.com/88386173/137927903-bf36b968-48d7-4492-a8ce-bbd57118b2ee.png)
 
@@ -96,7 +104,7 @@ Dies ist nun das neue Layout, welches dank weniger Knöpfe und Buttons und effiz
 
 ![Uhrzeit](https://user-images.githubusercontent.com/88386173/137928390-a9d2fc89-e61b-449a-aa75-4b0056ca1f04.png)
 
-Dies ist der Code für die Uhrzeit und das Datum. Darüber sieht man, wie diese auf dem Homescreen positioniert sind. (Hinweis: auf einem Android-Gerät sieht dies natürlich anders und besser aus).
+Dies ist der erste Code für die Uhrzeit und das Datum. Darüber sieht man, wie diese auf dem Homescreen positioniert sind. (Hinweis: auf einem Android-Gerät sieht dies natürlich anders und besser aus).
 
 ## 28.09.2021
 Die ganze Gruppe war durch Krankheit verhindert.
@@ -128,5 +136,8 @@ Bild 4: Slogan? Logo?
 Wir konnten erfolgreich neue Items in unseren Listen speichern, haben jedoch in dieser Stunde herausgefunden, dass die Items nicht nur in einer Liste, sondern in allen Listen gleichzeitig gespeichert werden. Wir werden probieren, das Problem in der kommenden Stunde zu beheben. Ausserdem hat Antonia heute ein Android Handy von Zuhsause mitgenommen, sodass wir unsere App heute auch auf einem Handy ausprobieren konnten. Dies hat sehr gut geklappt. Zur Sicherheit haben wir zudem verschiedene Screenshots von den Codes gemacht, damit wir diese nicht verlieren. 
 
 ## 26.10.2021
-In dieser Doppelstunde haben wir das Speicher-Problem der Listen behoben. Indem wir alle Listen gleich benannt haben, wurden alle Items auf jeder Liste gespeichert. Nachdem wir die Listen unbenannt haben, funktionierte es wie geplant. Auch haben wir einige Sound Effekts rausgesucht und in die App eingesetzt. Wir haben uns aber dazu entschieden, dass  nur eine kleine Klingel läuten soll, wenn mnan einen der Läden auswählt, damit es sich anfühlt, als würde man wirklich einen Laden betreten. Alle anderen Sound Effecrs empfanden wir dann doch als zu viel, da diese auch schnell nerven können. Ganz nach dem Motto weniger ist manchmnal mehr, beließen wir es bei der Klingel. 
+In dieser Doppelstunde haben wir das Speicher-Problem der Listen behoben. Indem wir alle Listen gleich benannt haben, wurden alle Items auf jeder Liste gespeichert. Nachdem wir die Listen unbenannt haben, funktionierte es wie geplant. Auch haben wir einige Sound Effekts rausgesucht und in die App eingesetzt. Wir haben uns aber dazu entschieden, dass  nur eine kleine Klingel läuten soll, wenn mnan einen der Läden auswählt, damit es sich anfühlt, als würde man wirklich einen Laden betreten. Alle anderen Sound Effects empfanden wir dann doch als zu viel, da diese auch schnell nerven können. Ganz nach dem Motto weniger ist manchmnal mehr, beließen wir es bei der Klingel. 
+
 ![soundcode](https://user-images.githubusercontent.com/88386321/138890689-a545e681-08b4-471d-87ad-702cc3c0d949.PNG)
+
+Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen kann, das Programm sich diese aber nicht merkt, gelöst. Als erstesn sieht man den alten Code und darunter zum Vergleich den neuen:
