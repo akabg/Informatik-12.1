@@ -82,6 +82,9 @@ Unsere To-Do Liste:
 ## 07.09.2021 
 Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da war, konnten wir uns Anfangs nicht in App Inventor einloggen. Deshalb haben wir auf Pexels Hintergrundbilder für unsere App rausgesucht. Nachdem wir verschiedene Bilder gesammelt haben, haben wir für Farhat einen GitHub Account erstellt. Zum Ende hin, haben wir es dann doch noch geschafft in App Inventor reinzukommen. Also haben wir am Ende die herausgesuchten Bilder eingefügt.  
 
+![ladenwählen](https://user-images.githubusercontent.com/88386321/138900145-1739c5c0-5f4d-4422-8ed5-4d7dfbc49fa4.png)
+Hier ein Beispiel eines neuen Hintergrund und Layouts.
+
 ## 08.09.2021 
 Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, nächste Stunde den Code, den wir auf einer Seite getestet haben, auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
 
@@ -163,7 +166,7 @@ Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen
 ![Uhrzeit](https://user-images.githubusercontent.com/88386321/138898937-4e89d015-97ad-4c1f-9033-bfb0a8222dd0.png)
 
 --------------------------------------------------------------------
-
+fehlt noch
 
 Und hier das finale Layout des Startscreens:
 
