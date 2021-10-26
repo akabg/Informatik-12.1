@@ -30,7 +30,7 @@ Die ganze Klasse ist hier ebenfalls durch die Klassenfahrt verhindert.
 Vanessa und Antonia waren beide krank.
 
 ## 25-08-2021
-Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können und weiter daran gearbeitet. Zuwieder unserer Erwartungen haben unsere ersten Programmierversuche sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine To-Do Liste, zum abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Sound Effekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als nächstes das Layout an.
+Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können und weiter daran gearbeitet. Zuwieder unserer Erwartungen haben unsere ersten Programmierversuche sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine Einkaufsliste Liste, zum abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Sound Effekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als nächstes das Layout an.
 
 ![knöpfe erster versuch](https://user-images.githubusercontent.com/88386173/137918798-cf7f6e69-57ef-4c46-bc83-063c1a1e7efb.PNG)
 
@@ -63,6 +63,7 @@ Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergle
 
 ## 01.09.2021
 Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
+
 Unsere To-Do Liste:
 
 -speicher button um Objekte in der Liste zu speichern
