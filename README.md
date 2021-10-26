@@ -119,8 +119,12 @@ Heute hat sich unsere Grupope aufgeteteilt. Während Antonia den Github-Blog üb
 Inhalt:
 Bild 1: Personen, in einem Supermarkt/Drogeriemarkt/..., welche eine hohe Anzahl an Einkaufszetteln durchwühlen und fallen lassen (schneller Cut zwischen diesen Personen)
 Bild 2: Aufnahme einer einfarbigen Oberfläche von oben, ein Handy wird vom Rand in die Mitte des Tischs gestoßen, die Kamera zoomt auf den Bildschirm, wo unsere App offen ist
-Bild 3: Bildschirmaufnahme, die App wird benutzt (--> einfacher als tausend Zettel!)
+Bild 3: Bildschirmaufnahme, die App wird benutzt (--> Slogan: einfacher als tausend Zettel!)
 Bild 4: Slogan? Logo?
 
 ## 20.10.2021
 Wir konnten erfolgreich neue Items in unseren Listen speichern, haben jedoch in dieser Stunde herausgefunden, dass die Items nicht nur in einer Liste, sondern in allen Listen gleichzeitig gespeichert werden. Wir werden probieren, das Problem in der kommenden Stunde zu beheben. Ausserdem hat Antonia heute ein Android Handy von Zuhsause mitgenommen, sodass wir unsere App heute auch auf einem Handy ausprobieren konnten. Dies hat sehr gut geklappt. Zur Sicherheit haben wir zudem verschiedene Screenshots von den Codes gemacht, damit wir diese nicht verlieren. 
+
+## 26.10.2021
+In dieser Doppelstunde haben wir das Speicher-Problem der Listen behoben. Indem wir alle Listen gleich benannt haben, wurden alle Items auf jeder Liste gespeichert. Nachdem wir die Listen unbenannt haben, funktionierte es wie geplant. Auch haben wir einige Sound Effekts rausgesucht und in die App eingesetzt. Wir haben uns aber dazu entschieden, dass  nur eine kleine Klingel läuten soll, wenn mnan einen der Läden auswählt, damit es sich anfühlt, als würde man wirklich einen Laden betreten. Alle anderen Sound Effecrs empfanden wir dann doch als zu viel, da diese auch schnell nerven können. Ganz nach dem Motto weniger ist manchmnal mehr, beließen wir es bei der Klingel. 
+![soundcode](https://user-images.githubusercontent.com/88386321/138890689-a545e681-08b4-471d-87ad-702cc3c0d949.PNG)
