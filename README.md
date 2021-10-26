@@ -53,6 +53,8 @@ Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code wenig
 
 ![alter Code](https://user-images.githubusercontent.com/88386173/137929191-2f3177af-2950-4670-b807-2e04e828694b.png)
 
+------------------------------------------------------------------------------------------------------
+
 ![GRneu](https://user-images.githubusercontent.com/88386321/138892521-07eed65d-7d98-4ade-9237-17527607b782.png)
 
 Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht. Denn beim alten Code, braucht man die doppelte Anzahl an Knöpfen, um die Textkästen wieder zurückzufärben. Dieser Unterschied ist auch unten nochmal auf dem Handy gezeigt, der obere Teil wäre die alte Ansicht und der untere ist neue.
@@ -62,18 +64,25 @@ Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergle
 ## 01.09.2021
 Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
 Unsere To-Do Liste:
+
 -speicher button um Objekte in der Liste zu speichern
+
 -delete button um Liste zu leeren
+
 -new item button um neues Item zur Liste hinzuzufügen
+
 -Uhrzeit und Datum
+
 -Bilder auf allen
+
 -Sound effect beim clicken
+
 
 ## 07.09.2021 
 Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da war, konnten wir uns Anfangs nicht in App Inventor einloggen. Deshalb haben wir auf Pexels Hintergrundbilder für unsere App rausgesucht. Nachdem wir verschiedene Bilder gesammelt haben, haben wir für Farhat einen GitHub Account erstellt. Zum Ende hin, haben wir es dann doch noch geschafft in App Inventor reinzukommen. Also haben wir am Ende die herausgesuchten Bilder eingefügt.  
 
 ## 08.09.2021 
-Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, nächste Stunde die Tabellen auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
+Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, nächste Stunde den Code, den wir auf einer Seite getestet haben, auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
 
 ## 14.09.2021
 Augefallen.
