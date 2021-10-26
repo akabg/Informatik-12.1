@@ -108,6 +108,8 @@ Dies ist der neue Code am Beispiel des Drogerie Screens. Statt vielen einzelnen 
 
 ![neues Layout](https://user-images.githubusercontent.com/88386173/137927903-bf36b968-48d7-4492-a8ce-bbd57118b2ee.png)
 
+![drogeriescreenn](https://user-images.githubusercontent.com/88386321/138899470-1da780fb-7d9b-428a-9e4a-0416aa9815e7.png)
+
 Dies ist nun das neue Layout, welches dank weniger Knöpfe und Buttons und effizienteren Codes übersichtlicher ist und besser funktioniert.
 
 ![Homescreen1](https://user-images.githubusercontent.com/88386173/137930091-cafdc5f2-99f3-4fc0-bf77-017ec750e2c2.png)
@@ -156,13 +158,12 @@ In dieser Doppelstunde haben wir das Speicher-Problem der Listen behoben. Indem 
 
 ![soundcode](https://user-images.githubusercontent.com/88386321/138890689-a545e681-08b4-471d-87ad-702cc3c0d949.PNG)
 
-Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen kann, das Programm sich diese aber nicht merkt, gelöst. Als erstesn sieht man den alten Code und darunter zum Vergleich den neuen:
+Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen kann, das Programm sich diese aber nicht merkt, gelöst. Als erstes sieht man den alten Code und darunter zum Vergleich den neuen:
 
 ![Uhrzeit](https://user-images.githubusercontent.com/88386321/138898937-4e89d015-97ad-4c1f-9033-bfb0a8222dd0.png)
 
 --------------------------------------------------------------------
 
-![neuertime](https://user-images.githubusercontent.com/88386321/138898892-78939ac5-2b8b-4915-84b5-553b253c9c19.PNG)
 
 Und hier das finale Layout des Startscreens:
 
