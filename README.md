@@ -149,9 +149,23 @@ Dieser Code wurde geupdatet. Die lila Kästen sind neu und ermöglichen das Spei
 ## 20.10.2021
 Wir konnten erfolgreich neue Items in unseren Listen speichern, haben jedoch in dieser Stunde herausgefunden, dass die Items nicht nur in einer Liste, sondern in allen Listen gleichzeitig gespeichert werden. Wir werden probieren, das Problem in der kommenden Stunde zu beheben. Ausserdem hat Antonia heute ein Android Handy von Zuhsause mitgenommen, sodass wir unsere App heute auch auf einem Handy ausprobieren konnten. Dies hat sehr gut geklappt. Zur Sicherheit haben wir zudem verschiedene Screenshots von den Codes gemacht, damit wir diese nicht verlieren. 
 
+![speichern](https://user-images.githubusercontent.com/88386321/138898700-3f13e8e0-0205-49ae-bfbd-2a4e19842803.PNG)
+
 ## 26.10.2021
 In dieser Doppelstunde haben wir das Speicher-Problem der Listen behoben. Indem wir alle Listen gleich benannt haben, wurden alle Items auf jeder Liste gespeichert. Nachdem wir die Listen unbenannt haben, funktionierte es wie geplant. Auch haben wir einige Sound Effekts rausgesucht und in die App eingesetzt. Wir haben uns aber dazu entschieden, dass  nur eine kleine Klingel läuten soll, wenn mnan einen der Läden auswählt, damit es sich anfühlt, als würde man wirklich einen Laden betreten. Alle anderen Sound Effects empfanden wir dann doch als zu viel, da diese auch schnell nerven können. Ganz nach dem Motto weniger ist manchmnal mehr, beließen wir es bei der Klingel. 
 
 ![soundcode](https://user-images.githubusercontent.com/88386321/138890689-a545e681-08b4-471d-87ad-702cc3c0d949.PNG)
 
 Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen kann, das Programm sich diese aber nicht merkt, gelöst. Als erstesn sieht man den alten Code und darunter zum Vergleich den neuen:
+
+![Uhrzeit](https://user-images.githubusercontent.com/88386321/138898937-4e89d015-97ad-4c1f-9033-bfb0a8222dd0.png)
+
+--------------------------------------------------------------------
+
+![neuertime](https://user-images.githubusercontent.com/88386321/138898892-78939ac5-2b8b-4915-84b5-553b253c9c19.PNG)
+
+Und hier das finale Layout des Startscreens:
+
+![Homescreenshot](https://user-images.githubusercontent.com/88386321/138899019-abf09a45-2222-48ca-a3a3-c736d73c6b46.png)
+
+
