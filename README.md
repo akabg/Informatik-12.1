@@ -35,9 +35,11 @@ Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal au
 ![knöpfe erster versuch](https://user-images.githubusercontent.com/88386173/137918798-cf7f6e69-57ef-4c46-bc83-063c1a1e7efb.PNG)
 
 Auf diesem Bild sieht man eine unserer ersten Screens der App, auf der man eine Art von Supermarkt aussuchen kann. Noch besteht der Screen nur aus Buttons, das Layout wird aber noch verändert.
+
 ![erste knöpfe](https://user-images.githubusercontent.com/88386173/137919281-cca4f590-8f41-4afa-8542-337087e1437f.PNG)
 
 Auf diesem Bild sieht man die ersten Programmierversuche unserer Gruppe. Dieses Programm ist dafür da, mit der Hilfe von Knöpfen durch die Seiten zu navigieren.
+
 ![textbox farbe ändern](https://user-images.githubusercontent.com/88386173/137919463-a7c20e99-aed2-4b92-90ad-f0a27c315d4d.PNG)
 
 Dies ist der Code, mit welchem man eine Farbe der Textbox ändern kann. Diese Funktion ist dafür gedacht, dass man Teile der Liste "abhaken" kann. (Nachtrag: Die Funktion haben wir im Nachhinein gelöscht und anders gelöst).
