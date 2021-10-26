@@ -135,7 +135,7 @@ Herbstferien
 Herbstferien
 
 ## 19.10.2021
-Heute hat sich unsere Grupope aufgeteteilt. Während Antonia den Github-Blog überarbeitet, auf Vollständigkeit prüft und mit Bildern füllt, arbeiten Vanessa und Farhat an einer Möglichkeit, die Objekte in einer Liste auch zu speichern. Denn momentan gehen diese verloren, wenn man auf einen anderen Screen wechselt. In Teamarbeit haben wir uns auch dazu entschieden, für die Präsentation ein Werbevideo zu drehen, über dessen Inhalt wir kurz gebrainstormt haben.
+Heute hat sich unsere Gruppe aufgeteteilt. Während Antonia den Github-Blog überarbeitet, auf Vollständigkeit prüft und mit Bildern füllt, arbeiten Vanessa und Farhat an einer Möglichkeit, die Objekte in einer Liste auch zu speichern. Denn momentan gehen diese verloren, wenn man auf einen anderen Screen wechselt. In Teamarbeit haben wir uns auch dazu entschieden, für die Präsentation ein Werbevideo zu drehen, über dessen Inhalt wir kurz gebrainstormt haben.
 Inhalt:
 Bild 1: Personen, in einem Supermarkt/Drogeriemarkt/..., welche eine hohe Anzahl an Einkaufszetteln durchwühlen und fallen lassen (schneller Cut zwischen diesen Personen)
 Bild 2: Aufnahme einer einfarbigen Oberfläche von oben, ein Handy wird vom Rand in die Mitte des Tischs gestoßen, die Kamera zoomt auf den Bildschirm, wo unsere App offen ist
