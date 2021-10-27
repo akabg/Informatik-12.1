@@ -161,12 +161,13 @@ In dieser Doppelstunde haben wir das Speicher-Problem der Listen behoben. Indem 
 
 ![soundcode](https://user-images.githubusercontent.com/88386321/138890689-a545e681-08b4-471d-87ad-702cc3c0d949.PNG)
 
-Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen kann, das Programm sich diese aber nicht merkt, gelöst. Als erstes sieht man den alten Code und darunter zum Vergleich den neuen:
+Danach haben wir das Problem, dass man das Datum und die Uhrzeit zwar einstellen kann, das Programm sich diese aber nicht merkt, gelöst. Als erstes sieht man den alten Code und darunter zum Vergleich den neuen. Unsere eigentliche Idee war es,  "tinyDB" als Database zum Speichern zu nutzen. Dies hat nicht funktioniert, da man dann folgend die Daten und Uhrzeiten selbst eintragen muss, weshalb wir eine Formatierung bestimmen mussten, die das Handy dann automatisch zu einer Uhrzeit/Datum generiert:
 
 ![Uhrzeit](https://user-images.githubusercontent.com/88386321/138898937-4e89d015-97ad-4c1f-9033-bfb0a8222dd0.png)
 
 --------------------------------------------------------------------
-fehlt noch
+
+![newclock](https://user-images.githubusercontent.com/88386173/139058003-1c0bd9ff-7f12-4e60-bb53-7af4dc9b2f82.PNG)
 
 Und hier das finale Layout des Startscreens:
 
