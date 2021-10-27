@@ -173,4 +173,7 @@ Und hier das finale Layout des Startscreens:
 
 ![Homescreenshot](https://user-images.githubusercontent.com/88386321/138899019-abf09a45-2222-48ca-a3a3-c736d73c6b46.png)
 
+## 27.10.2021
+Heute haben wir Ordnung in unsere App gebraucht. Zuerst haben wir unnötige Features, die noch von alten Codes übrig waren entfernt. Auch haben wir mehrere Zwischenversionen von unserem Projekt als Notsicherung, falls ein Coding-Versuch schief geht, gehabt. Diese haben wir nun alle miteinander verglichen, damit unsere Originalversion auf dem neusten Stand ist und dann gelöscht, da wir sie nicht mehr brauchen.
+
 
