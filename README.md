@@ -176,4 +176,8 @@ Und hier das finale Layout des Startscreens:
 ## 27.10.2021
 Heute haben wir Ordnung in unsere App gebraucht. Zuerst haben wir unnötige Features, die noch von alten Codes übrig waren entfernt. Auch haben wir mehrere Zwischenversionen von unserem Projekt als Notsicherung, falls ein Coding-Versuch schief geht, gehabt. Diese haben wir nun alle miteinander verglichen, damit unsere Originalversion auf dem neusten Stand ist und dann gelöscht, da wir sie nicht mehr brauchen.
 
+## 02.11.2021
+Heute war Farhat krank. Wir haben die App verschönert und einige Details die wir ändern wollten geändert. 
 
+## 03.11.2021 
+Antonia ist krank, Farhat ist zurück. Antonia wird von Zuhause arbeiten und fängt mit unserer PowerPoint Präsentation an. Zuerst hat Vanessa Farhat die neuen Änderungen gezeigt. Anschliessend werden wir heute die restlichen Screens einstellen.
