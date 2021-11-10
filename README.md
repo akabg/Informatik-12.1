@@ -181,3 +181,9 @@ Heute war Farhat krank. Wir haben die App verschönert und einige Details die wi
 
 ## 03.11.2021 
 Antonia ist krank, Farhat ist zurück. Antonia wird von Zuhause arbeiten und fängt mit unserer PowerPoint Präsentation an. Zuerst hat Vanessa Farhat die neuen Änderungen gezeigt. Anschliessend werden wir heute die restlichen Screens einstellen.
+
+## 09.11.2021
+Die Klasse hat ihr Mathe-Vorabi geschrieben. 
+
+## 10.11.20212 
+Antonia und Farhat sind krank. Die Stunde hat etwas später als üblich angefangen, da der Computerraum abgeschlossen war und Herr Buhl noch in einer Konferenz war. Da die App soweit funktioniert, hat sich Vanessa gedanken zum Projekt gemacht und Ideen gesammelt inwieweit wir unsere App z.B. noch verbessern können (neue Features, besseres Outlay...)
