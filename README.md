@@ -186,4 +186,4 @@ Antonia ist krank, Farhat ist zurück. Antonia wird von Zuhause arbeiten und fä
 Die Klasse hat ihr Mathe-Vorabi geschrieben. 
 
 ## 10.11.20212 
-Antonia und Farhat sind krank. Die Stunde hat etwas später als üblich angefangen, da der Computerraum abgeschlossen war und Herr Buhl noch in einer Konferenz war. Da die App soweit funktioniert, hat sich Vanessa gedanken zum Projekt gemacht und Ideen gesammelt inwieweit wir unsere App z.B. noch verbessern können (neue Features, besseres Outlay...)
+Antonia und Farhat sind krank. Die Stunde hat etwas später als üblich angefangen, da der Computerraum abgeschlossen war und Herr Buhl noch in einer Konferenz war. Da die App soweit funktioniert, hat sich Vanessa gedanken zum Projekt gemacht und Ideen gesammelt inwieweit wir unsere App z.B. noch verbessern können (neue Features, besseres Outlay...). Ihre Idee ist es, einen weiteren Screen Namens "Map" zu erstellen. Für diesen Screen würden wir einen Navigationsscreen codieren, damit Personen, die die App benutzen, gleich in der App den Weg zu ihrem Store finden können. 
