@@ -180,7 +180,7 @@ Heute haben wir Ordnung in unsere App gebraucht. Zuerst haben wir unnötige Feat
 Heute war Farhat krank. Wir haben die App verschönert und einige Details die wir ändern wollten geändert. 
 
 ## 03.11.2021 
-Antonia ist krank, Farhat ist zurück. Antonia wird von Zuhause arbeiten und fängt mit unserer PowerPoint Präsentation an. Zuerst hat Vanessa Farhat die neuen Änderungen gezeigt. Anschliessend werden wir heute die restlichen Screens einstellen.
+Antonia ist krank. Sie wird von Zuhause arbeiten und fängt mit unserer PowerPoint Präsentation an. In der Schule hat Vanessa Farhat die neuen Änderungen gezeigt. Anschliessend wurden die restlichen Screens eingestellt.
 
 ## 09.11.2021
 Die Klasse hat ihr Mathe-Vorabi geschrieben. 
@@ -189,7 +189,14 @@ Die Klasse hat ihr Mathe-Vorabi geschrieben.
 Antonia und Farhat sind krank. Die Stunde hat etwas später als üblich angefangen, da der Computerraum abgeschlossen war und Herr Buhl noch in einer Konferenz war. Da die App soweit funktioniert, hat sich Vanessa gedanken zum Projekt gemacht und Ideen gesammelt inwieweit wir unsere App z.B. noch verbessern können (neue Features, besseres Outlay...). Ihre Idee ist es, einen weiteren Screen Namens "Map" zu erstellen. Für diesen Screen würden wir einen Navigationsscreen codieren, damit Personen, die die App benutzen, gleich in der App den Weg zu ihrem Store finden können. 
 
 ## 16.11.2021
-Antonia hat die Präsentation weiter gemacht. Farhat und Vanessa haben an eine neue Idee gearbeitet. In einem neuen Screen verlinken wir hilfreiche Internetseiten.
+Wir haben zusammen über weitere Ideen nachgedacht. Wir werden einen weiteren Screen erstellen, auf welchem wir Websiten verlinken, beziehungsweise, die Websiten sind in die App eingebettet. Diese haben alle etwas mit Einkaufen zu tun, wie zum Beispiel ein Rewe Bringdienst, Amazon, oder Chefkoch. Folgend hat Antonia hat die Präsentation weiterbearbeitet. Farhat und Vanessa haben an der neuen Idee gearbeitet.
 
 ## 17.11.2021
-Antonia ist krank. Farhat und Vanessa arbeiten an den Weblinks.
+Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und nächsten Dienstag getestet. 
+
+
+
+## 23.11.2021
+Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Websiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. 
+
+Notizen PowerPoint: Töne und ihre Bedeutung 
