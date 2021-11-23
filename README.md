@@ -178,6 +178,19 @@ Heute haben wir Ordnung in unsere App gebraucht. Zuerst haben wir unnötige Feat
 
 ## 02.11.2021
 Heute war Farhat krank. Wir haben die App verschönert und einige Details die wir ändern wollten geändert. 
+Dies sind die neuen Layouts der Screens:
+
+![start](https://user-images.githubusercontent.com/88386173/143043488-b59ba550-436d-4daa-82f6-08525570f744.png)
+Der neue Home-Screen.
+
+![auswahl](https://user-images.githubusercontent.com/88386173/143043525-84d5ee52-1338-4606-88c2-47072313dddb.png)
+Der neue Auswahl-Screen.
+
+![clothe](https://user-images.githubusercontent.com/88386173/143043579-636aac83-d800-4334-9115-72ee8a7eaf87.png)
+![drogerie](https://user-images.githubusercontent.com/88386173/143043604-89ab2472-4a8c-4ac3-a0b3-b9f8541998ca.png)
+![drogeriescreenn](https://user-images.githubusercontent.com/88386173/143043611-b99cbb6b-a653-4329-842d-bb0796d37763.png)
+![supermarkt](https://user-images.githubusercontent.com/88386173/143043616-829a33bc-0e12-4a6b-b6a6-3257cfec4ac0.png)
+Die neuen Einkaufslisten.
 
 ## 03.11.2021 
 Antonia ist krank. Sie wird von Zuhause arbeiten und fängt mit unserer PowerPoint Präsentation an. In der Schule hat Vanessa Farhat die neuen Änderungen gezeigt. Anschliessend wurden die restlichen Screens eingestellt.
