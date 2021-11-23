@@ -64,7 +64,8 @@ Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergle
 ## 01.09.2021
 Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
 
-Unsere To-Do Liste:
+```diff 
+- Unsere To-Do Liste:
 
 -speicher button um Objekte in der Liste zu speichern
 
@@ -77,6 +78,7 @@ Unsere To-Do Liste:
 -Bilder auf allen
 
 -Sound effect beim clicken
+```
 
 
 ## 07.09.2021 
