@@ -216,7 +216,7 @@ Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, h
 
 
 ```diff 
-- text in red
+- hier Ideen
 ```
 
 # Präsentation und Finale Links 
