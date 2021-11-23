@@ -214,7 +214,8 @@ Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und nä
 
 ## 23.11.2021
 Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Websiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. 
-
+Color.GREEN
 Notizen PowerPoint: Töne und ihre Bedeutung 
 
-<font color="#FF0000">Dieser Text ist rot</font>
+
+
