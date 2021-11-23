@@ -214,11 +214,11 @@ Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und nä
 
 
 ## 23.11.2021
-Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Websiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. 
+Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Websiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. Antonia hat herausgefunden, wie sie die Farben des Textes Bei Github ändert und Kopierbare Textboxen erstellt. Wir haben auch bei dem Amazon-Link einen Fehler erkannt und diesen behoben.
 
 
 ```diff 
-- hier Ideen
+- Test
 ```
 
 # Präsentation und Finale Links 
