@@ -210,7 +210,7 @@ Wir haben zusammen über weitere Ideen nachgedacht. Wir werden einen weiteren Sc
 ## 17.11.2021
 Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und nächsten Dienstag getestet. 
 
-fenster.getContentPane().setBackground(new Color(100,0,20));
+#fenster.getContentPane().setBackground(new Color(100,0,20));
 
 
 ## 23.11.2021
