@@ -88,7 +88,8 @@ Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da
 Hier ein Beispiel eines neuen Hintergrund und Layouts.
 
 ## 08.09.2021 
-Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, nächste Stunde den Code, den wir auf einer Seite getestet haben, auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
+Antonia ist wieder krank. Heute hatte die ganze Klasse technische Probleme, die wir jedoch nach etwas Zeit lösen konnten. Leider hatte unser Computer weiterhin Probleme, weshalb wir uns einen neuen Computer suchen mussten der funktioniert. Als wir schließlich einen Computer gefunden haben, haben wir die restlichen Bilder auf alle Seiten eingefügt und uns vorgenommen, näc
+hste Stunde den Code, den wir auf einer Seite getestet haben, auf jede Seite zu übertragen und uns mit alten Problemen (z.B. wie kann man eine eigene Spalte erstellen?) befassen.
 
 ## 14.09.2021
 Augefallen.
@@ -216,6 +217,9 @@ Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und nä
 ## 23.11.2021
 Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Websiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. Antonia hat herausgefunden, wie sie die Farben des Textes bei Github ändert und kopierbare Textboxen erstellt. Gegen Ende der Stunde haben wir bei dem Amazon-Link einen Fehler erkannt und diesen behoben. Zum Schluss haben wir noch Screenshots von allen neuen Codes und Screens gemacht, um diese nächste Stunde in den Github-Blog und die PPP einzufügen. 
 
+## 24.11.2021
+An diesem Mittwoch haben wir uns darüber informiert, wie wir unsere App nach der Fertigstellung teilen können. Wir haben einen schnellen, effizienten Weg gefunden, die App als APK-Datei direkt auf das Handy zu laden und zu speichern. Diesen Vorgang haben wir heute erstmal mit einem Probe-Projekt geübt, damit nichts verloren geht, was es schief geht. 
+Hier Screen einfügen!
 
 # Präsentation und Finale Links 
 
