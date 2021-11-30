@@ -230,6 +230,15 @@ Hier sind die neuen Screens, in die wir Chefkoch, Rewe und Amazon eingebettet ha
 ## 30.11.2021
 Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und Github auf Vollständigkeit prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen.
 
+To-Do:
+- Screens
+- Github updaten
+- Github Rechtschreibcheck
+- App beenden
+- App final hochladen
+- App final auf Handy und Tablet laden
+- PPP beenden 
+
 # Präsentation und Finale Links 
 
 ```diff 
