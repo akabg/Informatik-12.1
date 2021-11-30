@@ -211,7 +211,7 @@ Antonia und Farhat sind krank. Die Stunde hat etwas später als üblich angefang
 Wir haben zusammen über weitere Ideen nachgedacht. Wir werden einen weiteren Screen erstellen, auf welchem wir Websiten verlinken, beziehungsweise, die Websiten sind in die App eingebettet. Diese haben alle etwas mit Einkaufen zu tun, wie zum Beispiel ein Rewe Bringdienst, Amazon, oder Chefkoch. Folgend hat Antonia hat die Präsentation weiterbearbeitet. Farhat und Vanessa haben an der neuen Idee gearbeitet.
 
 ## 17.11.2021
-Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und nächsten Dienstag getestet. 
+Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und wird am nächsten Dienstag getestet. 
 
 
 ## 23.11.2021
