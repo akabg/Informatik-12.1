@@ -6,7 +6,7 @@ Wir haben uns einen GitHub Account angelegt und einen ersten Überblick über di
 
 ## 04-08-2021
 
-Heute haben wir uns weiter mit Github vertraut gemacht und das Projekt mit den Accounts der Teammitglieder verknüpft. Zudem haben wir unser erstes Update bei Github geschrieben. Danach haben wir Applab ausprobiert und uns daran versucht, eine To-Do Liste zu programmieren. Dabei mussten wir aber feststellen, dass das Programm dafür nicht ganz so gut geeignet ist. Wir haben uns vorgenommen, uns zuhause weiter über mögliche Programme und Projekte zu informieren.
+Heute haben wir uns weiter mit GitHub vertraut gemacht und das Projekt mit den Accounts der Teammitglieder verknüpft. Zudem haben wir unser erstes Update bei GitHub geschrieben. Danach haben wir Applab ausprobiert und uns daran versucht, eine To-Do Liste zu programmieren. Dabei mussten wir aber feststellen, dass das Programm dafür nicht ganz so gut geeignet ist. Wir haben uns vorgenommen, uns zuhause weiter über mögliche Programme und Projekte zu informieren.
 
 ## 10-08-2021
 
@@ -213,7 +213,7 @@ Wir haben zusammen über weitere Ideen nachgedacht. Wir werden einen weiteren Sc
 Wir haben an den Weblinks weitergearbeitet. Der Code ist fertig geworden und wird am nächsten Dienstag getestet. 
 
 ## 23.11.2021
-Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Webseiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. Antonia hat herausgefunden, wie sie die Farben des Textes bei GitHub ändert und kopierbare Textboxen erstellt. Gegen Ende der Stunde haben wir bei dem Amazon-Link einen Fehler erkannt und diesen behoben. Zum Schluss haben wir noch Screenshots von allen neuen Codes und Screens gemacht, um diese nächste Stunde in den GitHub-Blog und die PPP einzufügen. 
+Während Antonia weiter an dem GitHub und an der Präsentation gearbeitet hat, haben Farhat und Vanessa Töne für die Buttons gesucht, die beim Drücken abspielen. Die Webseiten in unserer App funktionieren besser als gedacht. Auch hat Herr Buhl sich unsere App angeschaut. Antonia hat herausgefunden, wie sie die Farben des Textes bei GitHub ändert und kopierbare Textboxen erstellt. Gegen Ende der Stunde haben wir bei dem Amazon-Link einen Fehler erkannt und diesen behoben. Zum Schluss haben wir noch Screenshots von allen neuen Codes und Screens gemacht, um diese nächste Stunde in den GitHub-Blog und die PPP einzufügen. 
 
 ## 24.11.2021
 An diesem Mittwoch haben wir uns darüber informiert, wie wir unsere App nach der Fertigstellung teilen können. Wir haben einen schnellen, effizienten Weg gefunden, die App als APK-Datei direkt auf das Handy zu laden und zu speichern. Diesen Vorgang haben wir heute erstmal mit einem Probe-Projekt geübt, damit nichts verloren geht, wenn etwas schiefgeht. 
