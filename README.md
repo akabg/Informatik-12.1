@@ -232,12 +232,12 @@ Hier sind die neuen Screens, in die wir Chefkoch, Rewe und Amazon eingebettet ha
 ![Screen_Chefkoch](https://user-images.githubusercontent.com/88386173/144064306-cf7521b9-7781-476d-8673-d0774ddf9ac7.png)
 
 ## 30.11.2021
-Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche Abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und Github auf Vollständigkeit prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen.
+Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche Abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und GitHub auf Vollständigkeit prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen.
 
 To-Do:
 - Screens
-- Github updaten
-- Github Rechtschreibcheck
+- GitHub updaten
+- GitHub Rechtschreibcheck
 - App beenden
 - App final hochladen
 - App final auf Handy und Tablet laden
