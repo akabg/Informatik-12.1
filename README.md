@@ -49,7 +49,7 @@ Dies ist unser erster Entwurf, wie eine (Laden-spezifische) Einkaufsliste ausseh
 Dies ist der Code, mit welchem man eine Farbe der Textbox ändern kann. Diese Funktion ist dafür gedacht, dass man Teile der Liste "abhaken" kann. (Nachtrag: Die Funktion haben wir im Nachhinein auch gelöscht und anders gelöst).
 
 ## 31.08.2021
-Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. In diesem Beispiel hatten wir einen Knopf, der die Textbox einfärbt und einen, welcher sie wieder normal färbt. Diese haben wir zusammen gelegt. (Nachtrag: Auch diese Codes findet man in der finalen Vesion nicht mehr, da sie durch noch effizientere Codes ersetzt wurden) Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die Grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzlich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
+Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. In diesem Beispiel hatten wir einen Knopf, der die Textbox einfärbt und einen, welcher sie wieder normal färbt. Diese haben wir zusammen gelegt. (Nachtrag: Auch diese Codes findet man in der finalen Version nicht mehr, da sie durch noch effizientere Codes ersetzt wurden). Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzlich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
 
 ![alter Code](https://user-images.githubusercontent.com/88386173/137929191-2f3177af-2950-4670-b807-2e04e828694b.png)
 
@@ -57,12 +57,12 @@ Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code wenig
 
 ![GRneu](https://user-images.githubusercontent.com/88386321/138892521-07eed65d-7d98-4ade-9237-17527607b782.png)
 
-Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht. Denn beim alten Code, braucht man die doppelte Anzahl an Knöpfen, um die Textkästen wieder zurückzufärben. Dieser Unterschied ist auch unten nochmal auf dem Handy gezeigt, der obere Teil wäre die alte Ansicht und der untere ist neue.
+Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht. Denn beim alten Code, braucht man die doppelte Anzahl an Knöpfen, um die Textkästen wieder zurückzufärben. Dieser Unterschied ist auch unten nochmal auf dem Handy gezeigt, der obere Teil wäre die alte Ansicht und der untere ist die Neue.
 
 ![änderung](https://user-images.githubusercontent.com/88386321/138893230-d19bcf3b-7bd4-4ba5-9c82-52e8f6610c27.PNG)
 
 ## 01.09.2021
-Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten rausgesucht und auch Teils schon reingestellt. Auch den Datum Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
+Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do-Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten herausgesucht und auch teils schon reingestellt. Auch den Datum-Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
 
 ```diff 
 - Unsere To-Do Liste:
