@@ -42,7 +42,7 @@ Auf diesem Bild sieht man die ersten Programmierversuche unserer Gruppe. Dieses 
 
 ![ersteListe](https://user-images.githubusercontent.com/88386321/138891907-15e8729d-9fc4-498d-9857-8bbad8e34131.PNG)
 
-Dies ist unser erster Entwurf, wie eine (Ladenspezifische) Einkaufsliste aussehen könnte. Allerdings ist ein einzelner Knopf für jede Textbox und auch viele Textboxen sehr uneffizient, weshalb wir diese Funktion später abgeändert haben.
+Dies ist unser erster Entwurf, wie eine (Laden-spezifische) Einkaufsliste aussehen könnte. Allerdings ist ein einzelner Knopf für jede Textbox und auch viele Textboxen sehr ineffizient, weshalb wir diese Funktion später abgeändert haben.
 
 ![textbox farbe ändern](https://user-images.githubusercontent.com/88386173/137919463-a7c20e99-aed2-4b92-90ad-f0a27c315d4d.PNG)
 
