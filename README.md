@@ -18,7 +18,7 @@ Es öffnet sich leere Einkaufsliste zum selbst ausfüllen und abhaken
 Leider kann man in der Webversion nicht testen, ob das aktuelle Programm läuft, weshalb wir bis nächste Stunde warten müssen, um unsere anfänglichen Versuche zu testen. Denn die App läuft nur auf einem Android-Gerät, welches wir heute nicht dabei haben.
 
 ## 11-08-2021
-ausgefallen?
+Die Stunde ist ausgefallen.
 
 ## 18-08-2021
 Die ganze Klasse ist durch die Klassenfahrt verhindert gewesen.
@@ -30,7 +30,7 @@ Die ganze Klasse ist hier ebenfalls durch die Klassenfahrt verhindert.
 Vanessa und Antonia waren beide krank.
 
 ## 25-08-2021
-Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das Erste mal auf einem Android Gerät testen können und weiter daran gearbeitet. Zuwieder unserer Erwartungen haben unsere ersten Programmierversuche sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine Einkaufsliste Liste, zum abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Sound Effekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als nächstes das Layout an.
+Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das erste Mal auf einem Android-Gerät testen können und weiter daran gearbeitet. Zuwider unserer Erwartungen haben unsere ersten Programmierversuche sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine Einkaufsliste, zum Abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Soundeffekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als Nächstes das Layout an.
 
 ![knöpfe erster versuch](https://user-images.githubusercontent.com/88386173/137918798-cf7f6e69-57ef-4c46-bc83-063c1a1e7efb.PNG)
 
