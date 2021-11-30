@@ -2,7 +2,7 @@
 
 ## 03-08-2021
 
-Wir haben uns einen Github Account angelegt und einen ersten Überblick über die Möglichkeiten, die wir haben, gemacht. Dabei haben wir uns erst einmal allgemein über das Thema Programmieren informiert, da dieses komplettes Neuland für Vanessa und Antonia war.
+Wir haben uns einen GitHub Account angelegt und einen ersten Überblick über die Möglichkeiten, die wir haben, gemacht. Dabei haben wir uns erst einmal allgemein über das Thema Programmieren informiert, da dieses komplettes Neuland für Vanessa und Antonia war.
 
 ## 04-08-2021
 
