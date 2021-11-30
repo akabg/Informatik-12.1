@@ -219,6 +219,12 @@ Während Antonia weiter an dem Github und an der Präsentation gearbeitet hat, h
 
 ## 24.11.2021
 An diesem Mittwoch haben wir uns darüber informiert, wie wir unsere App nach der Fertigstellung teilen können. Wir haben einen schnellen, effizienten Weg gefunden, die App als APK-Datei direkt auf das Handy zu laden und zu speichern. Diesen Vorgang haben wir heute erstmal mit einem Probe-Projekt geübt, damit nichts verloren geht, was es schief geht. 
+So sieht der neue Code für die neuen Websiten aus und danach sieht man noch das Layout im Editor:
+
+![websitesblock](https://user-images.githubusercontent.com/88386173/144067582-427f3697-cd65-41f6-8b33-197ea2c79f3c.PNG)
+
+![websites](https://user-images.githubusercontent.com/88386173/144067597-f7c6b2ba-0f48-48a3-97b2-80724d86ab9b.PNG)
+
 Hier sind die neuen Screens, in die wir Chefkoch, Rewe und Amazon eingebettet haben:
 
 ![Screen_Amazon](https://user-images.githubusercontent.com/88386173/144064283-170b06e1-5f97-47d6-ab25-bfa4c6641543.png)
