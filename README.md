@@ -232,16 +232,10 @@ Hier sind die neuen Screens, in die wir Chefkoch, Rewe und Amazon eingebettet ha
 ![Screen_Chefkoch](https://user-images.githubusercontent.com/88386173/144064306-cf7521b9-7781-476d-8673-d0774ddf9ac7.png)
 
 ## 30.11.2021
-Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche Abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und GitHub auf Vollständigkeit und Rechtschreibung prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen. Anschließend haben wir die App auf 30 mb verkleinert, indem wir unnötige uploads, wie alte Töne oder Bilder gelöscht haben. 
+Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche Abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und GitHub auf Vollständigkeit und Rechtschreibung prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen. Anschließend haben wir die App auf 30 mb verkleinert, indem wir unnötige uploads, wie alte Töne oder Bilder gelöscht haben. Die App wurde dann von uns auf unser Android-Handy, als auch das Schultablet geladen. 
 
-To-Do:
-- Screens
-- GitHub updaten
-- GitHub Rechtschreibcheck
-- App beenden
-- App final hochladen
-- App final auf Handy und Tablet laden
-- PPP beenden 
+## 01.12.2021
+Heute haben wir unsere Arbeit beendet. Wir haben kontrolliert, ob die App auf beiden Geräten läuft. Dann haben wir sie bei AppInventor selbst in der Gallerie geteilt, damit man online auf die Codes zugreifen kann. Final haben wir alle Links in GitHub hinzugefügt.
 
 # Präsentation und Finale Links
 
