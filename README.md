@@ -254,6 +254,9 @@ https://gallery.appinventor.mit.edu/?galleryid=796cbe04-672f-491a-bed6-6ce542385
 
 Hinweis: Klicken Sie auf "Load App Into MIT App Inventor". Sie brauchen allerdings ein Google-Konto, um sich bei App-Inventor anzumelden. Sonst könnten wir Ihnen auch in einer Informatikstunde unsere Konten zur Verfügung stellen.
 
+PDF PowerPoint-Präsentation:
+FEHLT
+
 # Notizen
 Notizen PowerPoint: Töne und ihre Bedeutung 
 
