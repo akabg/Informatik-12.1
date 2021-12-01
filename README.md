@@ -245,16 +245,19 @@ To-Do:
 
 # Präsentation und Finale Links 
 
-```diff 
 Link um die App auf ein Android-Gerät zu downloaden:
+
+```diff 
 https://we.tl/t-Y5zFp8DbfR
 ```
 
-```diff 
 Link AppInventor, um die Codes anzuschauen:
+
+```diff 
 https://gallery.appinventor.mit.edu/?galleryid=796cbe04-672f-491a-bed6-6ce542385db7
-Hinweis: Klicken Sie auf "Load App Into MIT App Inventor". Sie brauchen allerdings ein Google-Konto, um sich bei App-Inventor anzumelden. Sonst könnten wir Ihnen auch in einer Informatikstunde unsere Konten zur Verfügung stellen.
 ```
+
+Hinweis: Klicken Sie auf "Load App Into MIT App Inventor". Sie brauchen allerdings ein Google-Konto, um sich bei App-Inventor anzumelden. Sonst könnten wir Ihnen auch in einer Informatikstunde unsere Konten zur Verfügung stellen.
 
 # Notizen
 Notizen PowerPoint: Töne und ihre Bedeutung 
