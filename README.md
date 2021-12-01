@@ -243,13 +243,14 @@ To-Do:
 - App final auf Handy und Tablet laden
 - PPP beenden 
 
-# Präsentation und Finale Links 
+# Präsentation und Finale Links
 
 Link um die App auf ein Android-Gerät zu downloaden:
 
 ```diff 
 https://we.tl/t-Y5zFp8DbfR
 ```
+--> Die App wurde bereits auf das Schultablet geladen (läuft dort aber langsam). In den Informatikstunden können Sie sich die App auch auf unserem Handy anschauen.
 
 Link AppInventor, um die Codes anzuschauen:
 
