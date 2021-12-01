@@ -235,20 +235,26 @@ Hier sind die neuen Screens, in die wir Chefkoch, Rewe und Amazon eingebettet ha
 Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche Abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und GitHub auf Vollständigkeit und Rechtschreibung prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen. Anschließend haben wir die App auf 30 mb verkleinert, indem wir unnötige uploads, wie alte Töne oder Bilder gelöscht haben. 
 
 To-Do:
+- Screens
 - GitHub updaten
+- GitHub Rechtschreibcheck
+- App beenden
+- App final hochladen
+- App final auf Handy und Tablet laden
 - PPP beenden 
 
 # Präsentation und Finale Links 
 
 ```diff 
-Hier Link platzieren
-```
-Link AppInventor:
-https://gallery.appinventor.mit.edu/?galleryid=796cbe04-672f-491a-bed6-6ce542385db7
-
-Link um App zu downloaden:
+Link um die App auf ein Android-Gerät zu downloaden:
 https://we.tl/t-Y5zFp8DbfR
+```
 
+```diff 
+Link AppInventor, um die Codes anzuschauen:
+https://gallery.appinventor.mit.edu/?galleryid=796cbe04-672f-491a-bed6-6ce542385db7
+Hinweis: Klicken Sie auf "Load App Into MIT App Inventor". Sie brauchen allerdings ein Google-Konto, um sich bei App-Inventor anzumelden. Sonst könnten wir Ihnen auch in einer Informatikstunde unsere Konten zur Verfügung stellen.
+```
 
 # Notizen
 Notizen PowerPoint: Töne und ihre Bedeutung 
