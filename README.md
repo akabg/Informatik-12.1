@@ -235,12 +235,7 @@ Hier sind die neuen Screens, in die wir Chefkoch, Rewe und Amazon eingebettet ha
 Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in einer Woche Abgabe ist. Dafür haben wir uns aufgeteilt. Während Antonia ein Logo designt und GitHub auf Vollständigkeit und Rechtschreibung prüft, suchen Farhat und Vanessa Möglichkeiten, die App Inventor Website, mitsamt Codes zu teilen. Anschließend haben wir die App auf 30 mb verkleinert, indem wir unnötige uploads, wie alte Töne oder Bilder gelöscht haben. 
 
 To-Do:
-- Screens
 - GitHub updaten
-- GitHub Rechtschreibcheck
-- App beenden
-- App final hochladen
-- App final auf Handy und Tablet laden
 - PPP beenden 
 
 # Präsentation und Finale Links 
