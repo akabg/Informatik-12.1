@@ -11,10 +11,14 @@ Heute haben wir uns weiter mit GitHub vertraut gemacht und das Projekt mit den A
 ## 10-08-2021
 
 Nach einigen Recherchen, sind wir uns klarer darüber geworden, was im Rahmen des Möglichen als Projekt für uns Programmier-Neulinge liegt. Auch haben wir uns mit Herrn Buhl darüber ausgetauscht und sind dank ihm auf das Programm AppInventor gekommen. Mit diesem haben wir uns anschließend vertraut gemacht und angefangen eine Einkaufsliste, bei der man Listen anlegen kann und diese nach Supermärkten sortiert, zu programieren. 
-Aufbau: 
+Aufbau:
+
 Startscreen --> Wähle Einkauf
-Es öffnet sich Screen 2 --> Wähle Art von Laden
+
+Es öffnet sich Screen 2 --> Wähle Art von Laden 
+
 Es öffnet sich leere Einkaufsliste zum selbst ausfüllen und abhaken
+
 Leider kann man in der Webversion nicht testen, ob das aktuelle Programm läuft, weshalb wir bis nächste Stunde warten müssen, um unsere anfänglichen Versuche zu testen. Denn die App läuft nur auf einem Android-Gerät, welches wir heute nicht dabei haben.
 
 ## 11-08-2021
@@ -85,6 +89,7 @@ Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To
 Antonia ist heute krank. Unser Computer hatte ein Fehler und da Antonia nicht da war, konnten wir uns Anfangs nicht in App Inventor einloggen. Deshalb haben wir auf Pexels Hintergrundbilder für unsere App herausgesucht. Nachdem wir verschiedene Bilder gesammelt haben, haben wir für Farhat einen GitHub Account erstellt. Zum Ende hin haben wir es dann doch noch geschafft in App Inventor hereinzukommen. Also haben wir am Ende die herausgesuchten Bilder eingefügt.  
 
 ![ladenwählen](https://user-images.githubusercontent.com/88386321/138900145-1739c5c0-5f4d-4422-8ed5-4d7dfbc49fa4.png)
+
 Hier ein Beispiel eines neuen Hintergrund und Layouts.
 
 ## 08.09.2021 
