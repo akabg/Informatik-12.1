@@ -254,10 +254,6 @@ https://gallery.appinventor.mit.edu/?galleryid=796cbe04-672f-491a-bed6-6ce542385
 
 Hinweis: Klicken Sie auf "Load App Into MIT App Inventor". Sie brauchen allerdings ein Google-Konto, um sich bei App-Inventor anzumelden. Sonst könnten wir Ihnen auch in einer Informatikstunde unsere Konten zur Verfügung stellen.
 
-PDF PowerPoint-Präsentation:
-FEHLT
+PowerPoint-Präsentation: [Informatik_Kladde.pptx](https://github.com/akabg/Informatik-12.1/files/7655958/Informatik_Kladde.pptx)
 
-# Notizen
-Notizen PowerPoint: Töne und ihre Bedeutung 
-
-
+PDF PowerPoint-Präsentation:[Informatik_Kladde.pdf](https://github.com/akabg/Informatik-12.1/files/7655956/Informatik_Kladde.pdf)
