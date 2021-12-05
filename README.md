@@ -197,7 +197,6 @@ Der neue Auswahl-Screen.
 
 ![clothe](https://user-images.githubusercontent.com/88386173/143043579-636aac83-d800-4334-9115-72ee8a7eaf87.png)
 ![drogerie](https://user-images.githubusercontent.com/88386173/143043604-89ab2472-4a8c-4ac3-a0b3-b9f8541998ca.png)
-![drogeriescreenn](https://user-images.githubusercontent.com/88386173/143043611-b99cbb6b-a653-4329-842d-bb0796d37763.png)
 ![supermarkt](https://user-images.githubusercontent.com/88386173/143043616-829a33bc-0e12-4a6b-b6a6-3257cfec4ac0.png)
 
 Die neuen Einkaufslisten.
