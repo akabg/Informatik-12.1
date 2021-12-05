@@ -106,7 +106,7 @@ Farhat und Antonia sind heute krank. Wir haben endlich herausgefunden, wie man e
 Außerdem können wir jetzt das Datum und die Uhrzeit auf der ersten Seite einstellen.
 
 ## 22.09.2021
-Farhat ist zurück. Vanessa und sie haben die große Umstellung vom Tag davor vollendet und sowohl das neue Layout angelegt, als auch den neuen Code zu Ende entwickelt.
+Farhat ist zurück. Wir haben die große Umstellung vom Tag davor vollendet und sowohl das neue Layout angelegt, als auch den neuen Code zu Ende entwickelt.
 
 ![alte Liste](https://user-images.githubusercontent.com/88386173/137929733-53e957e5-9ddf-40f2-ad66-0833e9783685.png)
 
