@@ -121,7 +121,7 @@ Dies ist nun das neue Layout, welches dank weniger Knöpfe und Buttons und effiz
 
 ![Uhrzeit](https://user-images.githubusercontent.com/88386173/137928390-a9d2fc89-e61b-449a-aa75-4b0056ca1f04.png)
 
-Dies ist der erste Code für die Uhrzeit und das Datum. Darüber sieht man, wie diese auf dem Homescreen positioniert sind. (Hinweis: auf einem Android-Gerät sieht dies natürlich anders und besser aus).
+Dies ist der erste Code für die Uhrzeit und das Datum. Darüber sieht man, wie diese auf dem Homescreen positioniert sind.
 
 ## 28.09.2021
 Die ganze Gruppe war durch Krankheit verhindert.
