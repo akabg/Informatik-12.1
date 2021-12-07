@@ -1,12 +1,12 @@
 # Informatik-12.1
 
-## Unser Projekt
-Das Projekt Kladde ist eine App für Androidgeräte, in der man sich Einkaufslisten einfach und nach Laden organisieren und erstellen kann. Zudem hat man Zugriff auf Themenbezogenen Websites wie Amazon. Die App wurde von Vanessa Vaino, Farhat Arfendi und Antonia Köhler erstellt.
+### <a name="1"></a>Unser Projekt
+Das Projekt Kladde ist eine App für Androidgeräte, in der man sich Einkaufslisten einfach und nach Laden organisiert erstellen kann. Zudem hat man Zugriff auf Themenbezogenen Websites wie Amazon. Die App wurde von Vanessa Vaino, Farhat Arfendi und Antonia Köhler erstellt.
 Der Name basiert einfach darauf, dass man Einkaufslisten meist auf Schmierzetteln schreibt, oder anders: Auf der Kladde.
 Die Idee für die App stammt aus unserem eigenen Alltag. Das Ziel war es für uns eine App zu erstellen, die nützlich ist (also kein Spiel) und im Alltag anwendbar ist. Aus einem Problem, dass man immer die Einkaufszettel verliert und diese unübersichtlich sind, entstand unsere Idee. Zudem muss unsere App im Rahmen des Möglichen beim Programmieren liegen, da niemand aus unserer Gruppe anfangs Erfahrung in diesem Bereich hatte.
 Die Zielgruppe der App sind Boomer, welchen die einfache Handhabung der App zuvorkommt und eine Digitalisierung des Alltags erleichtert. Das Design haben wir zurückhaltend, neutral, aber dennoch ästhetisch ansprechend in Pastell-Farben gewählt.
 
-# Blog 
+### <a name="2"></a>Blog 
 ## 03-08-2021
 
 Wir haben uns einen GitHub Account angelegt und einen ersten Überblick über die Möglichkeiten, die wir haben, gemacht. Dabei haben wir uns erst einmal allgemein über das Thema Programmieren informiert, da dieses komplettes Neuland für Vanessa und Antonia war.
@@ -248,11 +248,11 @@ Wir haben uns vorgenommen, heute so viel wie möglich fertigzustellen, da in ein
 ## 01.12.2021
 Heute haben wir unsere Arbeit beendet. Wir haben kontrolliert, ob die App auf beiden Geräten läuft. Dann haben wir sie bei AppInventor selbst in der Gallerie geteilt, damit man online auf die Codes zugreifen kann. Final haben wir alle Links in GitHub hinzugefügt.
 
-## Fazit
+### <a name="3"></a>Fazit
 
 Wir sind mit unserer App zufrieden, da diese besser funktioniert, als wir es uns anfangs gedacht hatten. Natütlich ist es kein Meisterwerk der Programmierkunst, aber wenn man unsere nicht vorhandenen Vorkenntnisse bedenkt, sind wir stolz auf uns. Besonders freuen wir uns über unsere Endresultate, da wir in jedem einzelnen Code sehen, wie wir uns verbessert haben und effizienter geworden sind. Das Projekt hat uns sehr gefallen und wir sind über uns hinaus gewachsen und haben viel gelernt. Nächstes Mal würden wir vielleicht ein anderes Programm verwenden, da AppInventor doch manchmal stockend lief und uns in unseren Möglichkeiten begrenzt hat.
 
-# Präsentation und Finale Links
+### <a name="4"></a>Finale Links
 
 Link um die App auf ein Android-Gerät zu downloaden:
 
@@ -269,7 +269,7 @@ https://gallery.appinventor.mit.edu/?galleryid=796cbe04-672f-491a-bed6-6ce542385
 
 Hinweis: Klicken Sie auf "Load App Into MIT App Inventor". Sie brauchen allerdings ein Google-Konto, um sich bei App-Inventor anzumelden. Sonst könnten wir Ihnen auch in einer Informatikstunde unsere Konten zur Verfügung stellen.
 
-# Projektseite als PPP
+### <a name="5"></a>Projektseite als PPP
 
 PowerPoint-Präsentation: [Informatik_Kladde.pptx](https://github.com/akabg/Informatik-12.1/files/7655958/Informatik_Kladde.pptx)
 
