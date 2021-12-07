@@ -61,36 +61,26 @@ Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das erste Mal au
 
 Auf diesem Bild sieht man eine unserer ersten Screens der App, auf der man eine Art von Supermarkt aussuchen kann. Noch besteht der Screen nur aus Buttons, das Layout wird aber noch verändert.
 
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/88386173/137919281-cca4f590-8f41-4afa-8542-337087e1437f.PNG">
-</p>
+"https://user-images.githubusercontent.com/88386173/137919281-cca4f590-8f41-4afa-8542-337087e1437f.PNG">
 
 Auf diesem Bild sieht man die ersten Programmierversuche unserer Gruppe. Dieses Programm ist dafür da, mit der Hilfe von Knöpfen durch die Seiten zu navigieren.
 
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/88386321/138891907-15e8729d-9fc4-498d-9857-8bbad8e34131.PNG">
-</p>
+https://user-images.githubusercontent.com/88386321/138891907-15e8729d-9fc4-498d-9857-8bbad8e34131.PNG
 
 Dies ist unser erster Entwurf, wie eine (Laden-spezifische) Einkaufsliste aussehen könnte. Allerdings ist ein einzelner Knopf für jede Textbox und auch viele Textboxen sehr ineffizient, weshalb wir diese Funktion später abgeändert haben.
 
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/88386173/137919463-a7c20e99-aed2-4b92-90ad-f0a27c315d4d.PNG">
-</p>
+https://user-images.githubusercontent.com/88386173/137919463-a7c20e99-aed2-4b92-90ad-f0a27c315d4d.PNG
 
 Dies ist der Code, mit welchem man eine Farbe der Textbox ändern kann. Diese Funktion ist dafür gedacht, dass man Teile der Liste "abhaken" kann. (Nachtrag: Die Funktion haben wir im Nachhinein auch gelöscht und anders gelöst).
 
 ## 31.08.2021
 Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code weniger aufwendig und kürzer zu halten, mit der wir auch noch Buttons in der App einsparen. Das bedeutet, dass ein Knopf mehrere Funktionen übernehmen kann, wenn man ihn öfters drückt. In diesem Beispiel hatten wir einen Knopf, der die Textbox einfärbt und einen, welcher sie wieder normal färbt. Diese haben wir zusammen gelegt. (Nachtrag: Auch diese Codes findet man in der finalen Version nicht mehr, da sie durch noch effizientere Codes ersetzt wurden). Auch haben wir uns heute auf das Layout der App konzentriert und unsere Codes, sowohl wie die grafischen Objekte sortiert, in den Farben stimmiger gestaltet und einige einfache, aber wichtige Knöpfe (wie z.B. "zurück") auf jeder Seite erstellt. Nächste Stunde richten wir alle Listen ein, da wir momentan nur an einer einzigen Liste die Codes testen. Zusätzlich versuchen wir eine Uhr auf dem Startbildschirm einzublenden.
 
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/88386173/137929191-2f3177af-2950-4670-b807-2e04e828694b.png">
-</p>
+https://user-images.githubusercontent.com/88386173/137929191-2f3177af-2950-4670-b807-2e04e828694b.png
 
 ---
 
-<p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/88386173/145065986-c7d8eca9-d228-498e-ab12-b77864371216.png)">
-</p>
+https://user-images.githubusercontent.com/88386173/145065986-c7d8eca9-d228-498e-ab12-b77864371216.png
 
 Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht. Denn beim alten Code, braucht man die doppelte Anzahl an Knöpfen, um die Textkästen wieder zurückzufärben. Dieser Unterschied ist auch unten nochmal auf dem Handy gezeigt, der obere Teil wäre die alte Ansicht und der untere ist die Neue.
 
