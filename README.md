@@ -78,18 +78,16 @@ Farhat war heute krank. Wir haben eine Möglichkeit gefunden, unseren Code wenig
 
 ![altercode5](https://user-images.githubusercontent.com/88386173/145067046-15cd676c-2500-41f9-83ca-8f47f2bc4148.png)
 
-![bild3](https://user-images.githubusercontent.com/88386173/145067370-2d828d50-3167-4ab5-b107-3797a3e28f68.PNG)
+![änderung](https://user-images.githubusercontent.com/88386321/138893230-d19bcf3b-7bd4-4ba5-9c82-52e8f6610c27.PNG)
 
 ---
 
 
 Hier sieht man einen Teil, des alten (oben) und den neuen (unten) Code im Vergleich. Wie man sieht wurden sie zusammengelegt und dadurch einige Buttons eingespart, was die Bedienoberfläche einfacher und übersichtlicher macht. Denn beim alten Code, braucht man die doppelte Anzahl an Knöpfen, um die Textkästen wieder zurückzufärben. Dieser Unterschied ist auch unten nochmal auf dem Handy gezeigt, der obere Teil wäre die alte Ansicht und der untere ist die Neue.
 
-![altercodeblau6](https://user-images.githubusercontent.com/88386173/145067085-aaaf61e1-b923-4028-a121-28128694c9d5.png)
-
 ![grafik](https://user-images.githubusercontent.com/88386173/145066023-7b0235e6-2efc-4d26-a5a8-e952f9a1fea6.png)
 
-![änderung](https://user-images.githubusercontent.com/88386321/138893230-d19bcf3b-7bd4-4ba5-9c82-52e8f6610c27.PNG)
+![bild3](https://user-images.githubusercontent.com/88386173/145067370-2d828d50-3167-4ab5-b107-3797a3e28f68.PNG)
 
 ## 01.09.2021
 Heute haben wir Farhat die Fortschritte in der App gezeigt und gemeinsam eine To-Do-Liste erstellt, zu dem Thema, was noch erledigt werden muss. Danach haben wir Hintergrundbilder für alle einzelnen Seiten herausgesucht und auch teils schon reingestellt. Auch den Datum-Button haben wir teilweise fertig programmiert und werden ihm Dienstag den letzten Finish geben. Zusätzlich haben wir nach einer Möglichkeit gesucht, die Texte in den Textboxen zu speichern, sind aber bislang zu keiner zufriedenstellenden Lösung gekommen. 
