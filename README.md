@@ -55,7 +55,10 @@ Vanessa und Antonia waren beide krank.
 ## 25-08-2021
 Farhat hat sich unserer Gruppe angeschlossen. Wir haben die App das erste Mal auf einem Android-Gerät testen können und weiter daran gearbeitet. Zuwider unserer Erwartungen haben unsere ersten Programmierversuche sogar funktioniert und wir haben uns sehr über diesen unerwarteten, ersten Erfolg gefreut. Folgendes hat schon geklappt: Von Screen 1 zu Screen 2 zu Screen 3 wechseln (indem man einen Knopf drückt). Textfelder zu erstellen, in die man etwas frei reinschreiben kann und ein Button, der, wenn man ihn betätigt, die Farbe der Textfelder wechseln lässt (für eine Einkaufsliste, zum Abchecken). Auch Dinge, die wir frei ausprobiert haben und möglicherweise später noch von uns genutzt werden, wie zum Beispiel ein Soundeffekt beim Betätigen der Knöpfe, haben wir zwar wieder entfernt, aber haben auch funktioniert. Nachdem die ersten Programmierschritte gelungen sind, schauen wir uns als Nächstes das Layout an.
 
-![knöpfe erster versuch](https://user-images.githubusercontent.com/88386173/137918798-cf7f6e69-57ef-4c46-bc83-063c1a1e7efb.PNG)
+<p align="center">
+  <img width="300" src="![knöpfe erster versuch](https://user-images.githubusercontent.com/88386173/137918798-cf7f6e69-57ef-4c46-bc83-063c1a1e7efb.PNG)">
+</p>
+
 
 Auf diesem Bild sieht man eine unserer ersten Screens der App, auf der man eine Art von Supermarkt aussuchen kann. Noch besteht der Screen nur aus Buttons, das Layout wird aber noch verändert.
 
